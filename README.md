@@ -12,3 +12,5 @@ LeetCode problems solved in Python
 > Save the minimum as an int and check the current price against the minimum to find the maximum profit.
 - Day 5: Valid Anagram solve with a runtime of 23 ms and memory 12.39 MB.
 > Counter comparison.
+- Day 6: Palindrome Number solve with a runtime of 8ms and memory 12.45 MB.
+> Transforme de int into string and start from the end
