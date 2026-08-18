@@ -13,4 +13,6 @@ LeetCode problems solved in Python
 - Day 5: Valid Anagram solve with a runtime of 23 ms and memory 12.39 MB.
 > Counter comparison.
 - Day 6: Palindrome Number solve with a runtime of 8ms and memory 12.45 MB.
-> Transforme de int into string and start from the end
+> Transforme de int into string and compare starting from the end
+- Day 7: Roman to Integer solve with a runtime of 7 ms and memory 12.41 MB.
+> Create a dict with the letters and values go throw the string  comparing the actual and next to know if is +/-
