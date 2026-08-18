@@ -1,12 +1,12 @@
 # LeetCode
 LeetCode problems solved in Python
-- Day 1: Two-Sum problem solve with a runtime of 0 ms and Memory 12.9 MB. 
+- Day 1: Two-Sum problem solve with a runtime of 0 ms and memory 12.9 MB. 
 > Calculate the complement and search in a dict (HashMap) of already visited.
 - Day 2: Valid-Parentheses problem solve with help, runtime 4 ms and memory 12.48 MB.
 > Use a stack with parentheses openers and check if it matches when a closing bracket appears
 - Day 3: Merge Two Sorted Lists solve with a runtime of 0 ms and memory 12.36MB.
 > Move pointers to nail the new chain
-- Day 4: Best Time to Buy and Sell Stock solve in an suboptimal way, runtime 125 ms and  memory 19.36
+- Day 4: Best Time to Buy and Sell Stock solve in an suboptimal way, runtime 125 ms and  memory 19.36 MB.
 > Pointers in the best option updated when a new one appeared.
 - Day 4B: Best Time to Buy and Sell Stock solve in optimal way.
 > Save the minimum as an int and check the current price against the minimum to find the maximum profit.
@@ -16,3 +16,5 @@ LeetCode problems solved in Python
 > Transforme de int into string and compare starting from the end
 - Day 7: Roman to Integer solve with a runtime of 7 ms and memory 12.41 MB.
 > Create a dict with the letters and values go throw the string  comparing the actual and next to know if is +/-
+- Day 8: Remove Duplicates from Sorted Array solve with a runtime of 0ms and memory 13.18 MB.
+> Make a set with the array, sorted into a list and smash de original one.
