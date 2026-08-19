@@ -18,3 +18,7 @@ LeetCode problems solved in Python
 > Create a dict with the letters and values go throw the string  comparing the actual and next to know if is +/-
 - Day 8: Remove Duplicates from Sorted Array solve with a runtime of 0ms and memory 13.18 MB.
 > Make a set with the array, sorted into a list and smash de original one.
+- Day 9: Remove Element solve with a runtime of 0 ms and memory 12.38 MB.
+> Copy de array without the values to remove.
+- Day 9B: Improve the memory usage of Remove Element, 0 ms and memory 12.24 MB.
+> Use double pointer one for the actual number an other for the places it should go
